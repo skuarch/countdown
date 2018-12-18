@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+}
+.rectangle {
+    padding-top: 7px;
+    border: solid 1px #cacaca;
+    min-height: 60px;  
+    width: 80px;      
+    text-align: center;
+    border-radius: 4px;
+    margin: 3px;
+    display: inline-block;
+}
+.big-number {
+    font-size: 20pt;
+}
+
+.color-grey {
+    color: gray;
+}
+
+.small-font {
+    font-size: 12px;
+    font-weight: bold;
+}
